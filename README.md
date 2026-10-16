@@ -118,7 +118,7 @@ https://github.com/ChadBlickenstaff/gtm-operating-systems
 ### Case Studies
 
 🌐 **Building an AI-Native Account Prioritization Engine**  
-https://chadblickenstaff.io/building-an-ai-native-account-prioritization-engine
+https://chadblickenstaff.io/building-a-gtm-account-prioritization-engine
 
 🌐 **What I'd Fix at ZoomInfo's RevOps**  
 https://chadblickenstaff.io/what-id-fix-at-zoominfos-revops
