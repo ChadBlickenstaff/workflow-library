@@ -61,7 +61,7 @@ Every workflow in this repository follows a consistent structure:
 - Future Improvements
 
 ```text
-ai-workflow-library/
+workflow-library/
 │
 ├── README.md
 │
@@ -85,21 +85,6 @@ ai-workflow-library/
     ├── README.md
     └── examples/
 ```
-
----
-
-## Future Workflows
-
-Planned additions include:
-
-- Claude workflows
-- ChatGPT workflows
-- Research pipelines
-- AI evaluation workflows
-- Prompt testing frameworks
-- API automations
-- MCP integrations
-- n8n workflows
 
 ---
 
